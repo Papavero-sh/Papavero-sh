@@ -1,7 +1,6 @@
 # Hi, I'm Shaghayegh 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaghayegh-asady-92b0b8268/)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:asadi.nsh@gmail.com)
+[![Contact Me](https://img.shields.io/badge/Contact_Me-FF8C00?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:asadi.nsh@gmail.com)
 
 🎓 PhD Student in Banking and Finance at the University of Rome Tor Vergata
 
