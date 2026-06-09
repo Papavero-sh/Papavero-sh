@@ -1,5 +1,5 @@
 # Hi, I'm Shaghayegh 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/shaghayegh-asady-92b0b8268](https://www.linkedin.com/in/shaghayegh-asady-92b0b8268/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaghayegh-asady-92b0b8268/)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:asadi.nsh@gmail.com)
 
